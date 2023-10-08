@@ -1,0 +1,22 @@
+24.09.2023 19:07:05 -- Class I:\Projects\VS\PotatoUtils.Logger\PotatoUtils.Logger.Tests\LoggerTests.cs in method MainLoggerActivity returned message testLog3
+24.09.2023 19:10:08 -- Class I:\Projects\VS\PotatoUtils.Logger\PotatoUtils.Logger.Tests\LoggerTests.cs in method MainLoggerActivity returned message testLog1
+24.09.2023 19:10:08 -- Class I:\Projects\VS\PotatoUtils.Logger\PotatoUtils.Logger.Tests\LoggerTests.cs in method MainLoggerActivity returned message testLog2
+24.09.2023 19:10:08 -- Class I:\Projects\VS\PotatoUtils.Logger\PotatoUtils.Logger.Tests\LoggerTests.cs in method MainLoggerActivity returned message testLog4
+24.09.2023 19:11:54 -- Class I:\Projects\VS\PotatoUtils.Logger\PotatoUtils.Logger.Tests\LoggerTests.cs in method MainLoggerActivity returned message testLog1
+24.09.2023 19:11:54 -- Class I:\Projects\VS\PotatoUtils.Logger\PotatoUtils.Logger.Tests\LoggerTests.cs in method MainLoggerActivity returned message testLog2
+24.09.2023 19:11:54 -- Class I:\Projects\VS\PotatoUtils.Logger\PotatoUtils.Logger.Tests\LoggerTests.cs in method MainLoggerActivity returned message testLog4
+24.09.2023 20:07:24 -- Class I:\Projects\VS\PotatoUtils.Logger\PotatoUtils.Logger.Tests\LoggerTests.cs in method MainLoggerActivity returned message testLog1
+24.09.2023 20:07:24 -- Class I:\Projects\VS\PotatoUtils.Logger\PotatoUtils.Logger.Tests\LoggerTests.cs in method MainLoggerActivity returned message testLog2
+24.09.2023 20:07:24 -- Class I:\Projects\VS\PotatoUtils.Logger\PotatoUtils.Logger.Tests\LoggerTests.cs in method MainLoggerActivity returned message testLog4
+24.09.2023 20:07:47 -- Class PotatoUtils.Logger.Tests.LoggerTests.cs in method MainLoggerActivity returned message testLog1
+24.09.2023 20:07:47 -- Class PotatoUtils.Logger.Tests.LoggerTests.cs in method MainLoggerActivity returned message testLog2
+24.09.2023 20:07:47 -- Class PotatoUtils.Logger.Tests.LoggerTests.cs in method MainLoggerActivity returned message testLog4
+24.09.2023 20:21:28 -- In module {PotatoUtils.Logger.Tests.LoggerTests.cs} calling method {MainLoggerActivity()} -- message :testLog1
+24.09.2023 20:21:28 -- In module {PotatoUtils.Logger.Tests.LoggerTests.cs} calling method {MainLoggerActivity()} -- message :testLog2
+24.09.2023 20:21:28 -- In module {PotatoUtils.Logger.Tests.LoggerTests.cs} calling method {MainLoggerActivity()} -- message :testLog4
+24.09.2023 20:21:39 -- In module {PotatoUtils.Logger.Tests.LoggerTests.cs} calling method {MainLoggerActivity()} -- message :testLog1
+24.09.2023 20:21:39 -- In module {PotatoUtils.Logger.Tests.LoggerTests.cs} calling method {MainLoggerActivity()} -- message :testLog2
+24.09.2023 20:21:39 -- In module {PotatoUtils.Logger.Tests.LoggerTests.cs} calling method {MainLoggerActivity()} -- message :testLog4
+08.10.2023 0:11:12 -- In module {PotatoUtils.Logger.Tests.LoggerTests.cs} calling method {MainLoggerActivity()} -- message: testLog1
+08.10.2023 0:11:12 -- In module {PotatoUtils.Logger.Tests.LoggerTests.cs} calling method {MainLoggerActivity()} -- message: testLog2
+08.10.2023 0:11:12 -- In module {PotatoUtils.Logger.Tests.LoggerTests.cs} calling method {MainLoggerActivity()} -- message: testLog4

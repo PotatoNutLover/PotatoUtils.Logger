@@ -1,0 +1,12 @@
+I:\Projects\VS\PotatoUtils.Logger\PotatoUtils.Logger\bin\Debug\net6.0\PotatoUtils.Logger.deps.json
+I:\Projects\VS\PotatoUtils.Logger\PotatoUtils.Logger\bin\Debug\net6.0\PotatoUtils.Logger.dll
+I:\Projects\VS\PotatoUtils.Logger\PotatoUtils.Logger\bin\Debug\net6.0\PotatoUtils.Logger.pdb
+I:\Projects\VS\PotatoUtils.Logger\PotatoUtils.Logger\obj\Debug\net6.0\PotatoUtils.Logger.csproj.AssemblyReference.cache
+I:\Projects\VS\PotatoUtils.Logger\PotatoUtils.Logger\obj\Debug\net6.0\PotatoUtils.Logger.GeneratedMSBuildEditorConfig.editorconfig
+I:\Projects\VS\PotatoUtils.Logger\PotatoUtils.Logger\obj\Debug\net6.0\PotatoUtils.Logger.AssemblyInfoInputs.cache
+I:\Projects\VS\PotatoUtils.Logger\PotatoUtils.Logger\obj\Debug\net6.0\PotatoUtils.Logger.AssemblyInfo.cs
+I:\Projects\VS\PotatoUtils.Logger\PotatoUtils.Logger\obj\Debug\net6.0\PotatoUtils.Logger.csproj.CoreCompileInputs.cache
+I:\Projects\VS\PotatoUtils.Logger\PotatoUtils.Logger\obj\Debug\net6.0\PotatoUtils.Logger.dll
+I:\Projects\VS\PotatoUtils.Logger\PotatoUtils.Logger\obj\Debug\net6.0\refint\PotatoUtils.Logger.dll
+I:\Projects\VS\PotatoUtils.Logger\PotatoUtils.Logger\obj\Debug\net6.0\PotatoUtils.Logger.pdb
+I:\Projects\VS\PotatoUtils.Logger\PotatoUtils.Logger\obj\Debug\net6.0\ref\PotatoUtils.Logger.dll
